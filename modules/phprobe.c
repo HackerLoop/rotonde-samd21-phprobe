@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/phprobe.h"
-#include "modules/modules/phprobe.h"
+#include "../drivers/phprobe.h"
+#include "./phprobe.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"
